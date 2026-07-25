@@ -1,2 +1,4 @@
 profile/*
+!profile/.github/
+!profile/.github/README.md
 
