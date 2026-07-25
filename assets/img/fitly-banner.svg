@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Fitly banner 1200x630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#FF7A59"/>
+      <stop offset="100%" stop-color="#FFB86B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <g transform="translate(60,195)">
+    <image href="fitly-icon.svg" x="0" y="0" width="240" height="240"/>
+  </g>
+  <text x="360" y="351" font-family="Inter, Arial, sans-serif" font-weight="700" font-size="96" fill="#FFFFFF">Fitly</text>
+</svg>
