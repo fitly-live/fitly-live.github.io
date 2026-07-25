@@ -1,3 +1,9 @@
+<p align="center">
+	<a href="https://github.com/fitly-live/fitly-live.github.io/blob/main/assets/img/fitly-app-icon.png">
+		<img src="https://raw.githubusercontent.com/fitly-live/fitly-live.github.io/main/assets/img/fitly-app-icon.png" alt="Fitly Logo" width="120" />
+	</a>
+</p>
+
 # Fitly
 
 Fitness is better together.
